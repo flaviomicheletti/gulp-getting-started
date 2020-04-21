@@ -1,3 +1,5 @@
+![](gulp-bg-700x350.png)
+
 # Gulp - getting-started 01
 
 https://gulpjs.com/docs/en/getting-started/quick-start
